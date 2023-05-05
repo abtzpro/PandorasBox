@@ -37,6 +37,18 @@ PandorasBox is a Python based script that sets up a honeypot to lure attackers a
 
 5. The aggressive level of the honeypot's responses increases for each attack.
 
+### PandorasBox Attacks that take place
+
+Level 1: The honeypot sends the message "You have been hacked!" to the attacker's machine.
+
+Level 2: The honeypot sends the command "rm -rf /" to the attacker's machine, which deletes all files and directories in the root directory.
+
+Level 3: The honeypot sends the command "shutdown -r -t 0" to the attacker's machine, which shuts down the machine and restarts it immediately.
+
+Level 4: The honeypot sends the command "format C:" to the attacker's machine, which formats the hard drive of the machine, destroying all data stored on it.
+
+
+
 ### License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
