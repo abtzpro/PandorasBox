@@ -1,5 +1,5 @@
 # PandorasBox
-PandorasBox is a Python based script that sets up a honeypot to lure attackers and then responds to their actions on the honeypot by mirroring the same actions on their own machines. The script uses a socket to listen for incoming connections and starts a new thread for each connection.
+PandorasBox is a Python based script that sets up a honeypot to lure attackers and then responds to their actions on the honeypot by mirroring the same actions on their own machines. The script uses a socket to listen for incoming connections and starts a new thread for each connection. PandorasBox also has 4 levels of offensive responses that are deployed to the attackers machine.
 
 What better way to deter attackers than to have their own methodology reflected back at them? 
 
