@@ -5,6 +5,8 @@ What better way to deter attackers than to have their own methodology reflected 
 
 You know the old legend attributed to PandorasBox - Don't open it. Not even once. Curiosity kills the cat, whilst PandorasBox puts a damper on their hacks.
 
+A → E, E → I, I → O, O → U, U → A
+
 ### Requirements
 
 - Python 3.x
